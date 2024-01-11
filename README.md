@@ -1,0 +1,9 @@
+- Created an animated login page using HTML and CSS to showcase a visually appealing design
+- Developed the HTML structure, including the <!DOCTYPE html> declaration, head and body sections, and linking an external CSS file
+- Designed a login form within a div with the class "box", including input fields for username and password, and links for "Forgot Password?" and "Signup"
+- Styled the overall page with the Poppins font from Google Fonts and a centered layout with a background color of #23242a
+- Applied specific styling to the login box, including size, background color, border radius, and an animated gradient background using pseudo-elements
+- Created unique styling for the form, including background color, padding, border radius, and moving placeholders and labels
+- Implemented distinct styling for the submit button, including background color, border radius, and opacity changes when clicked
+- Added a rotating animation to the gradient background of the login box using @keyframes animate
+- Utilized a vibrant color scheme predominantly consisting of shades of purple, pink, and green for a modern look
